@@ -40,12 +40,17 @@ File: style.css
 
 // Theme Element
 @import 'partials/theme-elements/form';
+@import 'partials/theme-elements/radiobox-checkbox';
 @import 'partials/theme-elements/labels-badges';
 @import 'partials/theme-elements/data-tables';
 @import 'partials/theme-elements/authentication';
 @import 'partials/theme-elements/button';
 @import 'partials/theme-elements/breadcrumb-pagination';
+@import 'partials/theme-elements/nav';
 
 // Other
 @import 'partials/other/chat';
+@import 'partials/other/chart';
+
+
 @import 'partials/third-party/third-party';
